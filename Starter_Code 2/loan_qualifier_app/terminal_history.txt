@@ -1,0 +1,50 @@
+  1  source /Users/richie/opt/anaconda3/bin/activate
+  2  conda activate dev
+  3  /Users/richie/opt/anaconda3/envs/dev/bin/python "/Users/richie/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  4  source /Users/richie/opt/anaconda3/bin/activate
+  5  conda activate dev
+  6  /Users/richie/opt/anaconda3/envs/dev/bin/python "/Users/richie/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  7  /Users/richie/opt/anaconda3/envs/dev/bin/python "/Users/richie/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  8  source /Users/richie/opt/anaconda3/bin/activate
+  9  conda activate dev
+  10  /Users/richie/opt/anaconda3/envs/dev/bin/python "/Users/richie/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  11  source /Users/richie/opt/anaconda3/bin/activate
+  12  conda activate dev
+  13  /Users/richie/opt/anaconda3/envs/dev/bin/python "/Users/richie/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  14  /usr/bin/python3 "/Users/richie/Downloads/Starter_Code 2/module-2/Starter_Code 2/loan_qualifier_app/app.py"
+  15  source /Users/richie/opt/anaconda3/bin/activate
+  16  conda activate dev
+  17  /Users/richie/opt/anaconda3/envs/dev/bin/python "/Users/richie/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  18  git clone https://github.com/rich-e-dev/module-2.git
+  19  git status
+  20  git status
+  21  git add README.md
+  22  git commit -m "Final Edit"
+  23  git add README.md
+  24  git init
+  25  git clone https://github.com/rich-e-dev/module-2.git
+  26  source /Users/richie/opt/anaconda3/bin/activate
+  27  conda activate dev
+  28  /Users/richie/opt/anaconda3/envs/dev/bin/python "/Users/richie/Downloads/Starter_Code 2/module-2/Starter_Code 2/loan_qualifier_app/app.py"
+  29  /usr/bin/python3 Untitled-1
+  30  git clone https://github.com/rich-e-dev/module-2.git
+  31  /usr/bin/python3 "/Users/richie/module-2-final/module-2/Starter_Code 2/loan_qualifier_app/app.py"
+  32  source /Users/richie/opt/anaconda3/bin/activate
+  33  conda activate dev
+  34  /Users/richie/opt/anaconda3/envs/dev/bin/python "/Users/richie/module-2-final/module-2/Starter_Code 2/loan_qualifier_app/app.py"
+  35  git status
+  36  git add
+  37  git commit -a
+  38  source /Users/richie/opt/anaconda3/bin/activate
+  39  conda activate dev
+  40  /Users/richie/opt/anaconda3/envs/dev/bin/python "/Users/richie/module-2-final/module-2/Starter_Code 2/loan_qualifier_app/app.py"
+  41  git push
+  42  git push
+  43  git commit
+  44  git add README.md
+  45  history 50 > terminal_history.txt
+  46  git history 50 > terminal_history.txt
+  47  git --help
+  48  git commit -m "Final Edit"
+  49  git status
+  50  git push
