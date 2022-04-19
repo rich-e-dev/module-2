@@ -1,0 +1,18 @@
+source /Users/richie/opt/anaconda3/bin/activate
+(base) richie@Richies-MacBook-Pro Starter_Code 2 % source /Users/richie/opt/anaconda3/bin/activate
+conda activate dev
+(base) richie@Richies-MacBook-Pro Starter_Code 2 % conda activate dev
+(dev) richie@Richies-MacBook-Pro Starter_Code 2 % /Users/richie/opt/anaconda3/envs/dev/bin/python "/Us
+ers/richie/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+? Enter a file path to a rate-sheet (.csv): /Users/richie/Downloads/Starter_Code 2/loan_qualifier_app/
+data/daily_rate_sheet.csv
+? What's your credit score? 750
+? What's your current amount of monthly debt? 10000
+? What's your total monthly income? 25000
+? What's your desired loan amount? 200000
+? What's your home value? 1200000
+The monthly debt to income ratio is 0.40
+The loan to value ratio is 0.17.
+Found 7 qualifying loans
+? Would you like to save the available loan(s)? Yes
+? Where would you like to save the csv file? Availble_Loans
