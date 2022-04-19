@@ -1,6 +1,6 @@
 # Loan Qualifier Application
 
-This tool was created to help 
+This tool was created to help the user see what loans they qualify and to export the results to a CSV file.
 
 ---
 
